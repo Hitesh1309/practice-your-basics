@@ -1,5 +1,5 @@
 // Manas, COE19B003
-// Question number: 19
+// Question number: 2
 // Language: C++
 
 /* Brief Description of your solution
