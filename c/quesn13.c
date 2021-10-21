@@ -98,6 +98,8 @@ int main()
     for (size_t i = 0; i < wordCount + 1; i++)
     {
         printf("%s : %d\n", array[i].word, array[i].frequency);
+        free(array[i].word);
+        
     }
 
     free(string);
